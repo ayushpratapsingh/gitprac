@@ -1,2 +1,0 @@
-# gitclass
-Git_Class
